@@ -14,7 +14,6 @@ public class test
         Console.WriteLine("Введите длину массива");
         int len = Convert.ToInt32(Console.ReadLine());
         return len;
-        
     }
 
     public static int[] CreateArr(int len)
