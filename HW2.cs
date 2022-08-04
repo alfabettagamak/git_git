@@ -1,4 +1,5 @@
-﻿using System.Linq.Expressions;
+﻿/* Второе задани*/
+using System.Linq.Expressions;
 
 namespace HW2_1;
 
